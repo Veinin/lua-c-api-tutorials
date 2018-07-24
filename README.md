@@ -14,5 +14,5 @@
 * [Calling C from Lua](/doc/03_calling_c_from_lua.md)
   * Lua to C Function Call.  [call_c_func.c](./src/06_call_lua_script.c) -> [call_c_func.lua](./src/call_c_func.lua)
   * Example: Split Lib.  [split_lib.c](./src/07_split_lib.c) -> [test_split.lua](./src/test_split.lua)
-  * Example: Boolean Array Lib.  [boolarray_lib.c](./src/08_boolarray_lib.c) -> [test_boolarray.lua]
+  * Example: Boolean Array Lib.  [boolarray_lib.c](./src/08_boolarray_lib.c) -> [test_boolarray.lua](./src/test_boolarray.lua)
   * Example: Sleep Lib.  [sleep_lib.c](./src/09_sleep_lib.c) -> [test_sleep.lua](./src/test_sleep.lua)
