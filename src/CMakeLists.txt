@@ -4,5 +4,5 @@ add_executable(call_lua_script 03_call_lua_script.c)
 add_executable(call_lua_func 04_call_lua_func.c)
 add_executable(call_lua_table 05_call_lua_table.c)
 
-add_library(power SHARED 06_call_c_func.c)
+add_library(mylib SHARED 06_call_c_func.c)
 add_library(split SHARED 08_split_lib.c)
