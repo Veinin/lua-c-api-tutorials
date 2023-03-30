@@ -3,7 +3,7 @@
 ## Contents
 
 * [Get Started](./doc/01_get_started.md)
-  * [Hello World](./src/01.hello.c)
+  * [Hello World](./src/01_hello.c)
   * [Lua Stack](./src/02_stack.c)
 
 * [Calling Lua From a C Program](./doc/02_calling_lua_from_a_c_program.md)
